@@ -1,4 +1,4 @@
-# ElixirDataStructures
+# Elixir Data Structures - Exercises
 
 This is an exercise in converting data structures into other data structures. 
 
