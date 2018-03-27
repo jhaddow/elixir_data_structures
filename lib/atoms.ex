@@ -1,6 +1,10 @@
 defmodule Atoms do
   @moduledoc """
   Some example functions related to atoms
+
+  Each of these functions currently returns the arg.
+  Check out the corresponding test and edit the function to return the result the test is
+  expecting.
   """
 
   @doc "Convert an atom to a string"

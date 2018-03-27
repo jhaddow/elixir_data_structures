@@ -1,6 +1,10 @@
 defmodule Structs do
   @moduledoc """
   An example using structs
+
+  Each of these functions currently returns the arg.
+  Check out the corresponding test and edit the function to return the result the test is
+  expecting.
   """
 
   defmodule Event do
