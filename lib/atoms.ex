@@ -5,7 +5,7 @@ defmodule Atoms do
 
   @doc "Convert an atom to a string"
   def atom_to_string(atom) do
-    Atom.to_string(atom)
+    atom
   end
 
   @doc """
@@ -13,6 +13,6 @@ defmodule Atoms do
   Fortunately, there's a function that helps with this.
   """
   def string_to_atom(string) do
-    String.to_existing_atom(string)
+    string
   end
 end
