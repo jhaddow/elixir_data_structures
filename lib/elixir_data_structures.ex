@@ -1,18 +1,5 @@
 defmodule ElixirDataStructures do
   @moduledoc """
-  Documentation for ElixirDataStructures.
+  An example project with a bunch of sample functions
   """
-
-  @doc """
-  Hello world.
-
-  ## Examples
-
-      iex> ElixirDataStructures.hello
-      :world
-
-  """
-  def hello do
-    :world
-  end
 end
